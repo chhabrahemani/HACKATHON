@@ -1,0 +1,11 @@
+TO DO:
+
+- Data parsing: parse data into a sensible format. 
+- Explore the data and plot the features towards survivability. Are some features irrelevant? Are some similar and can be merged? Are there strong correlations?
+- There, in the passenger names, are "Mr", "Master" etc. Make this into an extra feature by parsing names
+- The non-titanic part: construct the classifier. We are now fitting a discrete output. Need to change cost func. and add regularisation. 
+- Implement cross-validation. Train on part of the data and test on the rest. Keep data aside for testing. 
+
+
+
+- Accuracy should be c. 80 percent.
