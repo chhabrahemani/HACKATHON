@@ -6,6 +6,6 @@ TO DO:
 - The non-titanic part: construct the classifier. We are now fitting a discrete output. Need to change cost func. and add regularisation. 
 - Implement cross-validation. Train on part of the data and test on the rest. Keep data aside for testing. 
 
-
+- account for missing data
 
 - Accuracy should be c. 80 percent.
